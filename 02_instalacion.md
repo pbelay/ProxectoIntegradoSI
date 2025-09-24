@@ -14,3 +14,6 @@
 `winget upgrade --id  Google.Chrome`
 
 5. Documentar en 02_instalacion.md as tarefas solicitadas. 
+
+
+[Voltar ao incio](README.MD)

@@ -15,3 +15,7 @@
 * [Chrome](https://www.google.com/intl/es_es/chrome/)
 * [Adobe PDF](https://get.adobe.com/es/reader/)
 Documenta as tarefas indicadas en  `03_documentacion_equipo.md`.
+
+
+
+[Voltar ao incio](README.MD)

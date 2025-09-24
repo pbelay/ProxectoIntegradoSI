@@ -11,3 +11,4 @@
 | Google Chrome    | Navegador     | Freeware  | Windows / Linux / Mac  | winget show --id  Google.Chrome |
 | Adobe Acrobar Reader | Ofimática | Propietaria | Windows              | winget show --id   Adobe.Acrobat.Reader.64-bit |
 
+[Voltar ao incio](README.MD)

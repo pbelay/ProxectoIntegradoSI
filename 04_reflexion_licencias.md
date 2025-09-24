@@ -8,4 +8,5 @@
   - GPL é sempre mellor → Falso.  
 - **Elección:** escolleríase GPL para reforzar o ecosistema libre.  
 
----
+
+[Voltar ao incio](README.MD)

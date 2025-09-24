@@ -17,10 +17,13 @@ git status
 git add .
 
 # Gardamos os cambios no commit 
-
 git commit -m "inicio"
 
 ```
 4. Crear commits progresivos.
 5. Subir a GitHub.
 6. Documentar en 05_git_proceso.md
+
+
+
+[Voltar ao incio](README.MD)
